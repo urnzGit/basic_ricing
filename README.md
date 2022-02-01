@@ -1,3 +1,3 @@
-#Requirements\n
+#Requirements
 -i3
 -polybar
